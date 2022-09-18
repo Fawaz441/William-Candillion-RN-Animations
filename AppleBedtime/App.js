@@ -1,6 +1,7 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
+import {useFonts} from 'expo-font';
 import {GestureHandlerRootView} from 'react-native-gesture-handler';
 import Slider from './src/components/Slider';
 
